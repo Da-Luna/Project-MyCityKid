@@ -1,0 +1,47 @@
+Boy 1 Animation Ranges	
+
+					Start	-	End
+
+Idle					0	-	160
+Look Side				165	-	270
+Look Back				275	-	390
+Turn Right				395	-	425
+Turn Left				430	-	460
+Fight Stance				465	-	505
+Light Kick				510	-	540
+Heavy Kick				545	-	575
+Damage					580	-	620
+Pass Out				625	-	685
+Get Up					690	-	760
+Jump Up					765	-	795
+Air Flip				800	-	820
+Fall					825	-	855
+Land					860	-	890
+Walk					895	-	915
+Walk Turn Right				920	-	940
+Walk Turn Left				945	-	965
+Walk Backwards				970	-	994
+Run					1000	-	1020
+Run Turn Right				1025	-	1045
+Run Turn Left				1050	-	1070
+Fight Stance Forward			1075	-	1095
+Fight Stance Strafe Right		1100	-	1120
+Fight Stance Strafe Left		1125	-	1145
+Fight Stance Back			1150	-	1170
+Fight Stance Turn Right			1175	-	1195
+Fight Stance Turn Left			1200	-	1220
+Walk In Place				1225	-	1245
+Walk Backwards In Place			1250	-	1274
+Run In Place				1280	-	1300
+Fight Stance Forwards In Place		1305	-	1325
+Fight Stance Strafe Right In Place	1330	-	1350
+Fight Stance Strafe Left In Place	1355	-	1375
+Fight Stance Back In Place		1380	-	1400
+
+
+
+
+
+
+
+

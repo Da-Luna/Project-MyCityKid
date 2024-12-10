@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf47a7f287a0c74bb2fe0738953c179, type: 3}
+  m_Name: GenderSoundsMale
+  m_EditorClassIdentifier: 
+  selectedGenderType: 0
+  genderJumpSounds:
+  - {fileID: 8300000, guid: 4738aff51648548499b0dea88f0b766f, type: 3}
+  - {fileID: 8300000, guid: adcf4c6f0aabda1489cb1a548dd4d003, type: 3}
+  - {fileID: 8300000, guid: 2b804ff632a816740a8bdb259aa7f8cc, type: 3}
+  - {fileID: 8300000, guid: 968cba26ca533934684147480df2c278, type: 3}
+  - {fileID: 8300000, guid: 4705c25c847d1e14aab5e991b8362839, type: 3}
+  - {fileID: 8300000, guid: b8789a91cdd9fb745810b91294753191, type: 3}
+  genderLandSounds:
+  - {fileID: 8300000, guid: 303e5c47b6f2f7743a7a2514c7ab5890, type: 3}
+  - {fileID: 8300000, guid: 907d43eda734a2c4ea1fafa77f27911b, type: 3}
+  - {fileID: 8300000, guid: 39bda5758252b714fb7f918ebb602706, type: 3}
+  - {fileID: 8300000, guid: b917cff149e591a4ebf9e84dc0b9122a, type: 3}
+  - {fileID: 8300000, guid: 92d3ee26fe2ef1045b2772c4bcc436c4, type: 3}
+  - {fileID: 8300000, guid: 0d47d0740afe3b64f865146e4a836eef, type: 3}
